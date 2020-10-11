@@ -6,4 +6,4 @@ Before getting started, install the required external modules from cmd/terminal
 3) pip install numpy
 
 
-Visit http://jjnanthakumar.github.io/ for more information
+Visit https://jjnanthakumar.github.io/ for more information
